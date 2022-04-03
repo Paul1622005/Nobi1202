@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter and React Native
 - 👯 I’m looking to collaborate on mobile application
 - 📫 How to reach me: saobang001111@gmail.com
--🌱 Enthusiasm and Determination are my key words.
+- 🌱 Enthusiasm and Determination are my key words.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100007893101502) 
