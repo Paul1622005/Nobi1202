@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on Greenifyvn
 - 🌱 I’m currently learning Flutter and React Native
 - 👯 I’m looking to collaborate on mobile application
-- 📫 How to reach me: saobang001111@gmail.com or https://www.facebook.com/profile.php?id=100007893101502
-
+- 📫 How to reach me: saobang001111@gmail.com
 -🌱 Enthusiasm and Determination are my key words.
 
 ## 🌐Socials
