@@ -2,7 +2,7 @@
 
 # 💫About Me :
 - 🔭 I’m currently working on Greenifyvn
-- 🌱 I’m currently learning Flutter and React Native
+- 🌱 I’m currently learning Flutter & React Native & Android
 - 👯 I’m looking to collaborate on mobile application
 - 📫 How to reach me: saobang001111@gmail.com or https://www.facebook.com/profile.php?id=100007893101502
 - 🌱 Enthusiasm and Determination are my key words.
