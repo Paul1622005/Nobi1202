@@ -1,4 +1,4 @@
-### Hi 👋, I'm Nobi!
+### Hi there 👋, I'm Nobi!
 
 # 💫About Me :
 - 🔭 I’m currently working at Sotatek Company
